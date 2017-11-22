@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="mail">Mail :</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prénom :</string>
+    <string name="tel">Tel :</string>
+    <string name="field_prenom" />
+    <string name="field_nom">Nom</string>
+    <string name="field_mail">Mail</string>
+    <string name="field_tel" />
+    <string name="sinscrire">S\'inscrire</string>
+    <string name="calanques">Calanques</string>
+    <string name="region">Région :</string>
+    <string name="langue">Langue :</string>
+    <string name="provence">Provence</string>
+    <string name="provencal">Provençal</string>
+    <string name="body">Le massif des Calanques s\'étend sur plus de 20 km de long sur 4 km de large entre Les Goudes, au sud-ouest de Marseille, et Cassis ; ses points culminants sont le sommet de Marseilleveyre (432 m) et le mont Puget (565 m).</string>
+    <string name="annuler">Annuler</string>
+    <string name="choisir">Choisir</string>
+    <string name="todo">TODO</string>
+</resources>
